@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1461489808 source:c:\dev-cpp\mingw32\projetap2\eltatm.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"ELTPRIM.H"
+
+1460480308 c:\dev-cpp\mingw32\projetap2\eltprim.h
+	"ELTSDD.H"
+
+1458566374 c:\dev-cpp\mingw32\projetap2\eltsdd.h
+	"ELTATM.H"
+
+1461486072 c:\dev-cpp\mingw32\projetap2\eltatm.h
+
+1461349228 source:c:\dev-cpp\mingw32\projetap2\elttab.c
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	"TABPRIM.H"
+	"LSTPRIM.H"
+	"ELTPRIM.H"
+	<windows.h>
+
+1458585756 c:\dev-cpp\mingw32\projetap2\tabprim.h
+	"TABSDD.H"
+	"LSTPRIM.H"
+
+1458555799 c:\dev-cpp\mingw32\projetap2\tabsdd.h
+	"ELTTAB.H"
+
+1460309070 c:\dev-cpp\mingw32\projetap2\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461489038 c:\dev-cpp\mingw32\projetap2\lstprim.h
+	"LSTSDD.H"
+	"ELTPRIM.H"
+
+1458566344 c:\dev-cpp\mingw32\projetap2\lstsdd.h
+	"LSTATM.H"
+
+1460294790 c:\dev-cpp\mingw32\projetap2\lstatm.h
+	"ELTPRIM.H"
+
+1461489070 source:c:\dev-cpp\mingw32\projetap2\lstatm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTPRIM.H"
+	<windows.h>
+
+1461490410 source:c:\dev-cpp\mingw32\projetap2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	"TABPRIM.H"
+	"LSTPRIM.H"
+	"ELTPRIM.H"
+	<windows.h>
+
+1461863658 source:c:\users\oussama\desktop\projetap2\eltatm.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"ELTPRIM.H"
+
+1460476708 c:\users\oussama\desktop\projetap2\eltprim.h
+	"ELTSDD.H"
+
+1458566374 c:\users\oussama\desktop\projetap2\eltsdd.h
+	"ELTATM.H"
+
+1461482472 c:\users\oussama\desktop\projetap2\eltatm.h
+
+1461866028 source:c:\users\oussama\desktop\projetap2\elttab.c
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	"TABPRIM.H"
+	"LSTPRIM.H"
+	"ELTPRIM.H"
+	<windows.h>
+
+1458585756 c:\users\oussama\desktop\projetap2\tabprim.h
+	"TABSDD.H"
+	"LSTPRIM.H"
+
+1458555800 c:\users\oussama\desktop\projetap2\tabsdd.h
+	"ELTTAB.H"
+
+1460305470 c:\users\oussama\desktop\projetap2\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461485438 c:\users\oussama\desktop\projetap2\lstprim.h
+	"LSTSDD.H"
+	"ELTPRIM.H"
+
+1458566344 c:\users\oussama\desktop\projetap2\lstsdd.h
+	"LSTATM.H"
+
+1461501068 c:\users\oussama\desktop\projetap2\lstatm.h
+	"ELTPRIM.H"
+
+1461500610 source:c:\users\oussama\desktop\projetap2\lstatm.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTPRIM.H"
+	<windows.h>
+
